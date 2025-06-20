@@ -1,1 +1,1 @@
-Deplyoed link:https://vercel.com/alby-grace-abys-projects/careercounselling
+Deplyoed link:https://careercounselling-eight.vercel.app/
